@@ -37,7 +37,7 @@ In a word, advanced technologies like blockchain and DePin positively influence 
 
 ## News and Updates
 
-- **May 2024：Waiting for update...⭐
+- **May 2024：**Waiting for update...⭐
 - **Aug 2023：**Design a storage engine that more in line with Ethereum.
 - **Jun 2022：**Started research programme at Ethereum bottleneck.
 
