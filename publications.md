@@ -13,5 +13,5 @@ title: Publications
 ## Manuscript
 
 - [SolsDB: Solve the Ethereum Bottleneck Cause by Storage](https://potatochipking.github.io/mypaper/Solve-the-Ethereum-Bottleneck-Cause-by-Storage.pdf)<br>
-- [Technical topic about LSM-tree](https://potatochipking.github.io/mypaper/Technology-LSM-tree.md)<br>
+- [Technical topic about LSM-tree](https://potatochipking.github.io/mypaper/Technology-LSM-tree.pdf)<br>
 
